@@ -1,0 +1,31 @@
+/* center-content */
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+}
+/* big-green-header */
+header { text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: seagreen;
+        margin:20px;
+       }
+/* texts-1 */
+header p{ font-weight: normal;
+        font-size:15px;}
+
+/* style-links */
+a.hover {color:green;}
+a.visited {color: yellow;}
+
+
+/* texts-2 */
+h2 {text-transform: uppercase;}
+
+article{font-family:sans-serif;}
+
+/* small-green-footer  */
+footer{background-color: seagreen;
+      padding: 20px;}
+
